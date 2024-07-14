@@ -1,0 +1,41 @@
+table{
+    border-spacing: 0;
+}
+.table2{
+    opacity: 0;
+    margin-top: -650px;
+    margin-left:148px;
+}
+.table2>table>tr>td{
+    padding: 50px;
+}
+.table2:hover{
+    opacity: 100%;
+}
+td:hover{
+    background-color: gray;
+}
+td{
+    padding: 30px;
+}
+tr{
+    color: white;
+    text-align: center;
+    background-color: #8a8a8a;
+    border-spacing: 0;
+    margin: 0;
+}
+td{
+    border-spacing: 0;
+}
+h1{
+    margin-top: -370px;
+    margin-left: 240px;
+}
+h2{
+    font-size: large;
+    margin-left: 240px;
+}
+p{
+    margin-left: 200px;
+}

@@ -1,0 +1,86 @@
+html{
+    background-color: rgb(180, 177, 177);
+}
+
+.c1{
+    text-align: center;
+    border-radius: 5%;
+    margin: 50px;
+    width: 200px;
+    height: 300px;
+    background-color: white;
+}
+.c1:hover{
+    scale: 1.25;
+    transition: 1s;
+}
+
+.b1{
+    padding: 15px;
+    background-color: darkmagenta;
+}
+.b2{
+    padding: 15px;
+    background-color: orange;
+}
+.b3{
+    padding: 15px;
+    background-color: darkcyan;
+}
+.b4{
+    padding: 15px;
+    background-color: greenyellow;
+}
+.c2{
+    text-align: center;
+    float: right;
+    border-radius: 5%;
+    margin-top: -350px;
+    margin-right: 650px;
+    width: 200px;
+    height: 300px;
+    background-color: white;
+}
+
+.c2:hover{
+    scale: 1.25;
+    transition: 1s;
+}
+
+.c3{
+    text-align: center;
+    float: right;
+    border-radius: 5%;
+    margin-right: 414px;
+    margin-top: -350px;
+    width: 200px;
+    height: 300px;
+    background-color: white;
+}
+
+.c3:hover{
+    scale: 1.25;
+    transition: 1s;
+}
+.c4{
+    text-align: center;
+    float: right;
+    border-radius: 5%;
+    margin-right: 175px;
+    margin-top: -350px;
+    width: 200px;
+    height: 300px;
+    background-color: white;
+}
+.c4:hover{
+    scale: 1.25;
+    transition: 1s;
+}
+p{
+    font-size: large;
+    font-size: 20px;
+    font-weight: 900;
+}
+hr{
+    background-color: blueviolet;
+}
